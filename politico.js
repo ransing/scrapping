@@ -54,4 +54,4 @@ console.log(getCount())
 getCount();
 
 
-console.log(numTrump, numBiden, numCount)
+// console.log(numTrump, numBiden, numCount)
