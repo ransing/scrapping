@@ -47,7 +47,7 @@ async function getCount(){
         })
     }
     return numTrump
-    // console.log('hello')
+    console.log('hello')
 }
 
 console.log(getCount())
